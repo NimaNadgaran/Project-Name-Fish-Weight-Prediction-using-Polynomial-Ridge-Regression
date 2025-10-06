@@ -79,3 +79,6 @@ python fish_weight_regression.py
 ```
 
 4. View the visualizations and printed MSE results in the console.
+
+
+The name of the jupyter code comes from a juice that i was drinking during the projet. :)
